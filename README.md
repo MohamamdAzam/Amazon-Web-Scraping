@@ -12,5 +12,5 @@ rows.<br />
 The output should be in the list of dictionaries, finally represented in
 JSON.<br />
 
-### Feacdback 
+### Feadback 
 The Average Time - It Takes almost 3 minutes and 50 seconds to scrape 100 urls.
