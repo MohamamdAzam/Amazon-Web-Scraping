@@ -2,7 +2,7 @@
 Web scraping project - In this task, scrape 1000 amazon websites <br />
 Scarpe the following details from the page. 1. Product Title 2. Product Image URL 3. Price of the Product 4. Product Details using BeautifulSoup 4 in Python.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/MohamamdAzam/Amazon-Web-Scraping/blob/main/extraction.ipynb) <br/>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohamamdAzam/Amazon-Web-Scraping/blob/main/extraction.ipynb#scrollTo=Dqv4-oc-q26n)  <br />
 
 ## MAIN TASK
 In this task we want you to scrape a minimum hundred URLs.
